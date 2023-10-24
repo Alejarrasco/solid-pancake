@@ -1,5 +1,8 @@
-# solid-pancake
+# Proyecto de Redes de Computadores I
 
-## Subheader
+## Integrantes
+- Miguel Alejandro Carrasco Céspedes
+- Mauricio Miguel Ibañez Negrón
 
-Some more text
+## Acerca de
+Es un sensor de temperatura conectado a un ESP32 para la notificación vía email de altos niveles de temperatura.
